@@ -7,7 +7,7 @@
 
 File name                            | File description 
 ------------------------------------ | --------------------------------------------------------------
-`main.tf` | Terraform configuration file for building creating the repo in your GitHub organization.
+`main.tf` | Terraform configuration file for creating the repo in your GitHub organization.
 
 
 ### SECURITY WARNING: THE FILE MENTIONED BELOW CONTAINS SENSITIVE INFORMATION, MAKE SURE THE FILE IS NOT EXPOSED TO THE INTERNET OR ANY OTHER PUBLIC PLACES.
