@@ -13,6 +13,7 @@ File name                            | File description
 ### SECURITY WARNING: THE FILE MENTIONED BELOW CONTAINS SENSITIVE INFORMATION, MAKE SURE THE FILE IS NOT EXPOSED TO THE INTERNET OR ANY OTHER PUBLIC PLACES.
 - You need to create `filename.tfvars` file that has your GitHub organization token (file must have `.tfvars` extension). 
 - Terraform will use the token in the file to create repository in your GitHub organization.
+- The file must be local to your computer and to be uploaded to GitHub.
 - To get your GitHub token follow this [instructions](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
 - the file format should be as follow:
 
