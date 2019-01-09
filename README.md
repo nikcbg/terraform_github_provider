@@ -1,7 +1,7 @@
 # terraform_github_provider
 
 ### Purpose of the repository 
-- The repository creates repository in GitHub oraganization for teams with approriate credentials. 
+- The repository creates repository in GitHub oraganization.
 
 #### List of files in the repository
 
